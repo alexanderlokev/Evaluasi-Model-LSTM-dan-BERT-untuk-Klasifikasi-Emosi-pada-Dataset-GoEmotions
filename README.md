@@ -92,4 +92,4 @@ Hasil penelitian menunjukkan bahwa model BERT memberikan performa yang lebih bai
 ## MODELS and DATASET
 
 [MODELS](https://drive.google.com/drive/folders/1DKtl6zllHkU5Vy56r2MLcxZXSbQu4-1G?usp=sharing)
-[DATASET]([https://drive.google.com/drive/folders/1DKtl6zllHkU5Vy56r2MLcxZXSbQu4-1G?usp=sharing](https://www.kaggle.com/datasets/debarshichanda/goemotions))
+[DATASET](https://drive.google.com/drive/folders/1DKtl6zllHkU5Vy56r2MLcxZXSbQu4-1G?usp=sharing](https://www.kaggle.com/datasets/debarshichanda/goemotions).
