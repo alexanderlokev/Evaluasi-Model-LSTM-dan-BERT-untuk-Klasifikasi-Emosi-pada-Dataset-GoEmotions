@@ -89,7 +89,7 @@ Hasil penelitian menunjukkan bahwa model BERT memberikan performa yang lebih bai
 - Transformer Architecture (Vaswani et al., 2017)
 
 
-## MODELS and DATASET
+## MODELS & DATASET
 
-[MODELS](https://drive.google.com/drive/folders/1DKtl6zllHkU5Vy56r2MLcxZXSbQu4-1G?usp=sharing)
-[DATASET](https://drive.google.com/drive/folders/1DKtl6zllHkU5Vy56r2MLcxZXSbQu4-1G?usp=sharing](https://www.kaggle.com/datasets/debarshichanda/goemotions).
+- [Models](https://drive.google.com/drive/folders/1DKtl6zllHkU5Vy56r2MLcxZXSbQu4-1G?usp=sharing)
+- [GoEmotions Dataset (Kaggle)](https://www.kaggle.com/datasets/debarshichanda/goemotions)
