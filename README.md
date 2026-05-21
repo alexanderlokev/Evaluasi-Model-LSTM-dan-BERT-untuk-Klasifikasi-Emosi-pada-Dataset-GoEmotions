@@ -1,0 +1,1 @@
+# Evaluasi-Model-LSTM-dan-BERT-untuk-Klasifikasi-Emosi-pada-Dataset-GoEmotions
