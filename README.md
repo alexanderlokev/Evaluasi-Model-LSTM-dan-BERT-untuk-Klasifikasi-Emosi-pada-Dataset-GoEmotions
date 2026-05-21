@@ -2,7 +2,6 @@
 
 Penelitian ini membandingkan performa model deep learning berbasis sequential dan transformer untuk tugas klasifikasi emosi pada teks menggunakan dataset GoEmotions. Model yang digunakan adalah Long Short-Term Memory (LSTM) dan Bidirectional Encoder Representations from Transformers (BERT).
 
----
 
 ## Dataset
 
@@ -23,7 +22,6 @@ Dataset dibagi menggunakan rasio bawaan GoEmotions:
 - Validation: ~10%
 - Test: ~10%
 
----
 
 ## Preprocessing
 
@@ -35,7 +33,6 @@ Tahap preprocessing meliputi:
 - Konversi label menjadi multi-label vector
 - Padding sequence untuk model LSTM
 
----
 
 ## Model Architecture
 
@@ -47,7 +44,6 @@ Model LSTM menggunakan embedding layer untuk merepresentasikan kata menjadi vekt
 
 Model BERT menggunakan pre-trained transformer encoder dengan mekanisme self-attention untuk memahami konteks kata dalam kalimat secara dua arah sebelum menghasilkan prediksi klasifikasi emosi.
 
----
 
 ## Evaluation Metrics
 
@@ -58,7 +54,6 @@ Evaluasi model dilakukan menggunakan:
 - Accuracy
 - Exact Match Accuracy
 
----
 
 ## Results
 
@@ -69,13 +64,11 @@ Evaluasi model dilakukan menggunakan:
 | Accuracy | 0.5712 | 0.9230 |
 | Exact Match Accuracy | 0.0000 | 0.7520 |
 
----
 
 ## Conclusion
 
 Hasil penelitian menunjukkan bahwa model BERT memberikan performa yang lebih baik dibandingkan model LSTM pada seluruh metrik evaluasi. Kemampuan contextual understanding dan self-attention pada BERT membantu model memahami hubungan antar kata secara lebih efektif dibandingkan model sequential tradisional seperti LSTM.
 
----
 
 ## Technologies Used
 
@@ -87,7 +80,6 @@ Hasil penelitian menunjukkan bahwa model BERT memberikan performa yang lebih bai
 - NumPy
 - Google Colab
 
----
 
 ## References
 
@@ -96,7 +88,6 @@ Hasil penelitian menunjukkan bahwa model BERT memberikan performa yang lebih bai
 - LSTM (Hochreiter & Schmidhuber, 1997)
 - Transformer Architecture (Vaswani et al., 2017)
 
----
 
 ## Dataset & Files
 
